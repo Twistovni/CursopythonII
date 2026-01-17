@@ -1,0 +1,1 @@
+nome = ["Luiz" "Rafael", "Tiago"]
